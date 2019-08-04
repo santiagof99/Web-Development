@@ -1,5 +1,4 @@
-	# Web-Development-Practice
-	Various web pages and applications created while developing my Front-end and Back-end comprehension 
+Everything I used and included during my lessons and practice
 
 		Languages                
 		 -HTML                   
