@@ -12,6 +12,7 @@ Everything I used and included during my lessons and practice
 		 -NODE.js
 		 -BOOTSTRAP.css/.js
 
-		 Includes 
-			Museum of Candy website
+		 
+			
+			
                          
