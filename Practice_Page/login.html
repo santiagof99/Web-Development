@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register</title>
+	<link rel="stylesheet" type="text/css" href="login.css">
+</head>
+<body>
+<h1>Register</h1>
+<form>
+	<p>
+		<label for="First">Fist Name:</label>
+		<input type="text" id="First" name="First" placeholder="John" required>
+
+		<label for="Last">Last name:</label>
+		<input type="text" id="Last" name="Last"  placeholder="smith" required>
+	</p>
+
+	<p>
+		<label for="Gender">Male</label>
+		<input type="radio" id="Gender1" name="gender" value="Male">
+
+		<label for="Gender">Female</label>
+		<input type="radio" id="Gender2" name="gender" value="Female">
+
+		<label for="Gender">Other</label>
+		<input type="radio" id="Gender3" name="gender" value="Other">
+	</p>
+
+	<p>
+		<label for="Email">Email:</label>
+		<input type="email" name="Email" placeholder="your email" required>
+
+		<label for="Password">Password:</label>
+		<input type="password" name="Password" pattern=".{5,10}" required title="5 to 10 characters">
+	</p>
+
+	<p>
+		<label>
+
+
+			BirthDay:
+			<select name="Month" required>
+				<option>September</option>
+				<option>December</option>
+				<option>July</option>
+			</select>
+
+			<select name="Day" required>
+				<option>15</option>
+				<option>21</option>
+				<option>23</option>
+			</select>
+
+
+			<select name="year"required>
+				<option>1996</option>
+				<option>1999</option>
+				<option>2000</option>
+			</select>
+
+		</label>
+
+	</p>
+
+	<p>
+		<label for="checkbox">I agree to the terms and conditions</label>
+		<input type="checkbox" name="checkbox">
+	</p>
+
+	<button>Submit</button>
+
+</form>
+
+</body>
+</html>
