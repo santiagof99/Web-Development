@@ -1,0 +1,7 @@
+Museum of Candy Web page
+
+Created Using HTMl and CSS while maintaining the simplicity using Bootstrap and the FLEXBOX grid system to position elements
+while making them dynamic across various screensizes
+
+The navigation bar changes its background color using a CSS class that is applied when the page is scrolled further than the navbar height
+The animation was controlled using javascript and jquery
