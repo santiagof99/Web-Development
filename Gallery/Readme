@@ -1,0 +1,7 @@
+Gallery web page 
+
+New thumbnail class used to add images in a grid with a minimal amount of markup 
+
+New jumbotron class that creates a extended row that can present an image with text inside 
+
+Used collapsable navigations bars 
