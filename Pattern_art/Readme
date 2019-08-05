@@ -1,0 +1,8 @@
+Web page created to learn using the bootstrap card class 
+
+The card class creats blocks that can contain various information types
+
+Contained the cards in a grid system 
+
+In each card I included an image at the top of the card using image-top, as well as a paragraph of information and two buttons indicating
+a downlaod and like feature 
