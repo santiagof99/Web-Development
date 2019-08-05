@@ -1,0 +1,8 @@
+Created a cat adoption web page using HTML5 and CSS3 alongside Bootstrap
+
+I read bootstrap documentation and understood the collapsable navbar classes
+
+Implemented bootstrap navbar-collapse classes that would hide all navbar links using data-target=""
+that pointed towards an Identifier
+
+Bootstrap Grid system used inside container classes to center the objects by adding margins on the horizontal axis 
