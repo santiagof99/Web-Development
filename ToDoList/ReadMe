@@ -1,0 +1,19 @@
+To-Do List Web page
+
+What I used
+  HTML
+  CSS
+  JavaScript
+  jQuery.js
+  
+Created a dynamic To-do list web app with styling done with CSS and CSS animations
+
+Allows the user to add item to the list using a jQuery click event listener alonside an append() function to add the list item 
+
+Includes a feature to grey out and line through the text by clicking on the item
+
+When a list item is hovered over, a garbage bin icon animates into view using CSS. Uses the jQuery remove() function to delete the list item
+from the unordered list
+
+There is an included plus icon that can be used to hide the text field for items; this is using a click event listener alongside a fadeToggle()
+from jQuery
