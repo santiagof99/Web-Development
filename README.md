@@ -1,4 +1,4 @@
-Everything I used and included during my lessons and practice
+Everything I used and included during my learning
 
 		Languages                
 		 -HTML                   
